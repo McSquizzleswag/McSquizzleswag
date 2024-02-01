@@ -1,5 +1,5 @@
-### Hi there 👋
-Slowly learning Java, modding will eventually happen
+### I is me and I am everywhere
+Slowly learning Java, modding will eventually happen, starting with something simple
 
 On "Reading user's input with Scanner" in my learning with My Hyperskill
 <!--
