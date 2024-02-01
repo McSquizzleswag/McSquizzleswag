@@ -1,7 +1,7 @@
 ### Hi there 👋
 Slowly learning Java, modding will eventually happen
 
-On "Reading user's input with Scanner" in my learning with my hyperskill
+On "Reading user's input with Scanner" in my learning with My Hyperskill
 <!--
 **McSquizzleswag/Mcsquizzleswag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
