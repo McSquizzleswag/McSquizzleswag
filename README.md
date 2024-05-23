@@ -1,5 +1,7 @@
 ### I is me and I am everywhere
 Slowly learning Java, modding will eventually happen, starting with something simple
+
+![Stats](https://github-readme-stats.vercel.app/api?username=McSquizzleswag&show_icons=true&bg_color=DEG,b0130e,292A2F,394d6f,111114,394d6f,292A2F,b0130e&text_color=caa76f&border_color=4C4C4C&icon_color=ffffff&ring_color=caa76f&title_color=b3b3b3)
 <!--
 **McSquizzleswag/Mcsquizzleswag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
